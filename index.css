@@ -7,7 +7,12 @@
     transform: translate(-50%, -50%)
 }
 
-h1{
+#experienceHeader{
+    text-align: center;
+    font-size: 2em;
+}
+
+#name{
     font-family: 'Roboto', sans-serif;
     font-size: 5em;
 }
